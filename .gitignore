@@ -1,8 +1,7 @@
 /client/node_modules
 /client/dist
 
-/server/node_modules
-/server/config.js
+/server/node_module
 
 /design
 /node_modules
